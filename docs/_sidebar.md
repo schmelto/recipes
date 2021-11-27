@@ -1,0 +1,8 @@
+  - cook
+    - [hallo](/cook/hallo.md)
+    - potato
+      - [potato copy 2](/cook/potato/potato%20copy%202.md)
+      - [potato copy](/cook/potato/potato%20copy.md)
+      - [potato salad](/cook/potato/potato%20salad.md)
+      - [potato](/cook/potato/potato.md)
+    - [test](/cook/test.md)
